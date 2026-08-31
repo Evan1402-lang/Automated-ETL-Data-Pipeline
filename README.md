@@ -1,7 +1,7 @@
-# Automated ETL Pipeline for Transactional Data
+# Sample-Automated ETL Pipeline for Transactional Data
 
 ## 📌 Business Overview
-This repository contains a python-based ETL pipeline designed to ingest raw, unformatted order logs, apply cleaning algorithms, and populate a relational database for downstream analytics.
+This repository contains a sample of python-based ETL pipeline designed to ingest raw, unformatted order logs, apply cleaning algorithms, and populate a relational database for downstream analytics.
 
 ## 🛠️ Architecture & Technologies
 - **Ingestion:** Python (`pandas`)
